@@ -6,7 +6,7 @@ A crypographic signature of this file is contained in the [README.sig](README.si
 
 This statement will be updated on or about the 15th of every month.
 
-As of 15 April 2020, I have never received any:
+As of 15 May 2020, I have never received any:
 * National Security Letter of any type
 * Foreign Intelligence Surveillance Court orders of any type
 * Subpoenas and/or search warrants accompanied by a gag order pursuant to the Electronic Communications Privacy Act
